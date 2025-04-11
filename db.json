@@ -1,0 +1,163 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Amal Perera",
+      "latitude": 6.9271,
+      "longitude": 79.8612,
+      "address": "No. 25, Galle Road, Colombo 03, Sri Lanka"
+    },
+    {
+      "id": 2,
+      "name": "Kamal Silva",
+      "latitude": 7.2906,
+      "longitude": 80.6337,
+      "address": "No. 12, Peradeniya Road, Kandy, Sri Lanka"
+    },
+    {
+      "id": 3,
+      "name": "Nimal Fernando",
+      "latitude": 6.0535,
+      "longitude": 80.2210,
+      "address": "34/1, Lighthouse Street, Fort, Galle, Sri Lanka"
+    },
+    {
+      "id": 4,
+      "name": "Sunil Jayasuriya",
+      "latitude": 8.3114,
+      "longitude": 80.4037,
+      "address": "No. 78, Dharmapala Mawatha, Anuradhapura, Sri Lanka"
+    },
+    {
+      "id": 5,
+      "name": "Ruwan de Silva",
+      "latitude": 6.6953,
+      "longitude": 80.3847,
+      "address": "No. 10, Main Street, Ratnapura, Sri Lanka"
+    },
+    {
+      "id": 6,
+      "name": "Mahesh Weerasinghe",
+      "latitude": 7.8731,
+      "longitude": 80.7718,
+      "address": "No. 155, Pahalawewa, Dambulla, Sri Lanka"
+    },
+    {
+      "id": 7,
+      "name": "Tharindu Wickramasinghe",
+      "latitude": 9.6615,
+      "longitude": 80.0255,
+      "address": "No. 42, Stanley Road, Jaffna, Sri Lanka"
+    },
+    {
+      "id": 8,
+      "name": "Samantha Gunasekara",
+      "latitude": 7.2513,
+      "longitude": 79.8404,
+      "address": "No. 98, Poruthota Road, Negombo, Sri Lanka"
+    },
+    {
+      "id": 9,
+      "name": "Dilshan Rajapaksa",
+      "latitude": 6.9843,
+      "longitude": 81.0563,
+      "address": "No. 63, Passara Road, Badulla, Sri Lanka"
+    },
+    {
+      "id": 10,
+      "name": "Chathura Karunaratne",
+      "latitude": 7.4874,
+      "longitude": 81.7881,
+      "address": "No. 5, Trinco Road, Batticaloa, Sri Lanka"
+    }
+  ],
+  "Potensialcustomer": [
+    {
+      "id": 1,
+      "Name": "Amal Perera",
+      "DOB": "8/2/1994",
+      "Occupation": "Teacher",
+      "Location": "DEHIWALA",
+      "Transactions": {
+        "Online Shopping": 2,
+        "Super Market": 2,
+        "Grocery": 0,
+        "Travelling": 2,
+        "Bill Payments": 0,
+        "Other": 0,
+        "Total No. of Transactions": 6
+      },
+      "Volume of Transactions": {
+        "Online Shopping": "Rs. 20,000.00",
+        "Super Market": "Rs. 30,000.00",
+        "Grocery": "Rs. 0.00",
+        "Travelling": "Rs. 38,000.00",
+        "Bill Payments": "Rs. 0.00",
+        "Other": "Rs. 0.00",
+        "Total": "Rs. 88,000.00"
+      },
+      "Contact": {
+        "Tel.No": "776720048",
+        "Email": "S77EKANAYA@GMAIL.COM"
+      }
+    },
+    {
+      "id": 2,
+      "Name": "Kamal Silva",
+      "DOB": "6/30/1999",
+      "Occupation": "Accountant",
+      "Location": "JAFFNA",
+      "Transactions": {
+        "Online Shopping": 0,
+        "Super Market": 1,
+        "Grocery": 3,
+        "Travelling": 1,
+        "Bill Payments": 0,
+        "Other": 5,
+        "Total No. of Transactions": 10
+      },
+      "Volume of Transactions": {
+        "Online Shopping": "Rs. 8,000.00",
+        "Super Market": "Rs. 24,000.00",
+        "Grocery": "Rs. 48,000.00",
+        "Travelling": "Rs. 0.00",
+        "Bill Payments": "Rs. 0.00",
+        "Other": "Rs. 0.00",
+        "Total": "Rs. 80,000.00"
+      },
+      "Contact": {
+        "Tel.No": "773665121",
+        "Email": "INDUBUDDI@GMAIL.COM"
+      }
+    },
+    {
+      "id": 3,
+      "Name": "Nimal Fernando",
+      "DOB": "6/28/1997",
+      "Occupation": "Doctor",
+      "Location": "THELIGGAWILA",
+      "Transactions": {
+        "Online Shopping": 2,
+        "Super Market": 0,
+        "Grocery": 3,
+        "Travelling": 2,
+        "Bill Payments": 0,
+        "Other": 7,
+        "Total No. of Transactions": 14
+      },
+      "Volume of Transactions": {
+        "Online Shopping": "Rs. 10,000.00",
+        "Super Market": "Rs. 0.00",
+        "Grocery": "Rs. 5,000.00",
+        "Travelling": "Rs. 5,000.00",
+        "Bill Payments": "Rs. 0.00",
+        "Other": "Rs. 0.00",
+        "Total": "Rs. 20,000.00"
+      },
+      "Contact": {
+        "Tel.No": "711917177",
+        "Email": "PRIYA1979@GMAIL.COM"
+      }
+    }
+  ]
+}
